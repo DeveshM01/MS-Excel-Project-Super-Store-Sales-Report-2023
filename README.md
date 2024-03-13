@@ -6,8 +6,9 @@ The Super Store Sales Analysis project for the year 2023 aimed to derive actiona
 The Super Store Sales Analysis project delved into sales data from 2023 to understand customer behavior, geographic distribution, and preferred marketing channels. The primary objective was to uncover opportunities for optimizing marketing efforts and improving overall sales performance.
 
 # 2. Data Insights
+
 2.1 Customer Demographics
-Gender Distribution: Women constituted approximately 65% of the customer base, indicating a significant preference for female shoppers.
+Gender Distribution:Women constituted approximately 65% of the customer base, indicating a significant preference for female shoppers.
 Age Group Contribution: The age group of 30-49 years emerged as the highest contributor, accounting for around 50% of total sales.
 
 2.2 Geographic Distribution
